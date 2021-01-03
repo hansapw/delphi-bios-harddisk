@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/08 19:35:11.000.979,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/10 08:49:54.000.287,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/23 07:41:48.000.627,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 18:14:59.000.243,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 18:31:30.000.239,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\delphi\latihan\bioshdd\Ubios.dfm</Transaction>
+    <Transaction>2021/01/03 18:31:30.000.239,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\delphi\latihan\bioshdd\Ubios.pas</Transaction>
+    <Transaction>2021/01/03 18:31:36.000.831,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\delphi\latihan\bioshdd\Pbios.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
